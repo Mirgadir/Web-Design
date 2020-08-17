@@ -1,4 +1,5 @@
 # Web Design - Web Visualization Dashboard (Latitude)
+Open [link](https://mirgadir.github.io/Web-Design-Challenge/) to see solution.
 
 ## Background
 
@@ -8,7 +9,7 @@ Data is more powerful when we share it with others! Let's take what we've learne
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
-For this homework we'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting [weather data](Resources/cities.csv).
+For this homework we'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting [weather data](WebVisualizations/Resources/cities.csv).
 
 In building this dashboard, we'll create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
 
@@ -47,7 +48,7 @@ When finished, submit to BootcampSpot the links to 1) the deployed app and 2) th
 
 ### Considerations
 
-* You may use the [weather data](Resources/cities.csv) or choose another dataset. Alternatively, you may use the included [cities dataset](Resources/cities.csv) and pull the images from the [assets folder](Resources/assets).
+* You may use the [weather data](WebVisualizations/Resources/cities.csv) or choose another dataset. Alternatively, you may use the included [cities dataset](WebVisualizations/Resources/cities.csv) and pull the images from the [assets folder](WebVisualizations/Resources/assets).
 * You must use bootstrap. This includes using the bootstrap `navbar` component for the header on every page, the bootstrap table component for the data page, and the bootstrap grid for responsiveness on the comparison page.
 * You must deploy your website to GitHub pages, with the website working on a live, publicly accessible URL as a result.
 * Be sure to use a CSS media query for the navigation menu.
